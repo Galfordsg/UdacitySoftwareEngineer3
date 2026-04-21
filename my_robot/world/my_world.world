@@ -89,39 +89,39 @@
       <heading_deg>0</heading_deg>
     </spherical_coordinates>
     <state world_name='default'>
-      <sim_time>1118 477000000</sim_time>
-      <real_time>182 94315186</real_time>
-      <wall_time>1776741031 459850997</wall_time>
-      <iterations>181484</iterations>
+      <sim_time>1381 44000000</sim_time>
+      <real_time>25 322891141</real_time>
+      <wall_time>1776751604 861835654</wall_time>
+      <iterations>25211</iterations>
       <model name='building'>
-        <pose>3.00693 0.03165 0 0 -0 0</pose>
+        <pose>-4.23894 -0.48774 0 0 -0 0</pose>
         <scale>1 1 1</scale>
         <link name='Door_0'>
-          <pose>0.155897 -4.3254 0 0 -0 0</pose>
+          <pose>-7.08997 -4.84479 0 0 -0 0</pose>
           <velocity>0 0 0 0 -0 0</velocity>
           <acceleration>0 0 0 0 -0 0</acceleration>
           <wrench>0 0 0 0 -0 0</wrench>
         </link>
         <link name='Wall_0'>
-          <pose>-6.9136 -0.016378 0 0 -0 1.63485</pose>
+          <pose>-14.1595 -0.535771 0 0 -0 1.63485</pose>
           <velocity>0 0 0 0 -0 0</velocity>
           <acceleration>0 0 0 0 -0 0</acceleration>
           <wrench>0 0 0 0 -0 0</wrench>
         </link>
         <link name='Wall_1'>
-          <pose>0.031697 4.7793 0 0 -0 0.006622</pose>
+          <pose>-7.21417 4.25991 0 0 -0 0.006622</pose>
           <velocity>0 0 0 0 -0 0</velocity>
           <acceleration>0 0 0 0 -0 0</acceleration>
           <wrench>0 0 0 0 -0 0</wrench>
         </link>
         <link name='Wall_2'>
-          <pose>7.58606 0.087086 0 0 0 -1.50665</pose>
+          <pose>0.340194 -0.432307 0 0 0 -1.50665</pose>
           <velocity>0 0 0 0 -0 0</velocity>
           <acceleration>0 0 0 0 -0 0</acceleration>
           <wrench>0 0 0 0 -0 0</wrench>
         </link>
         <link name='Wall_3'>
-          <pose>0.640697 -4.70859 0 0 0 -3.13394</pose>
+          <pose>-6.60517 -5.22798 0 0 0 -3.13394</pose>
           <velocity>0 0 0 0 -0 0</velocity>
           <acceleration>0 0 0 0 -0 0</acceleration>
           <wrench>0 0 0 0 -0 0</wrench>
@@ -168,25 +168,25 @@
         </link>
       </model>
       <model name='robot'>
-        <pose>-2.58153 -0.464539 0.200001 -3.14159 -0.594519 -3.08143</pose>
+        <pose>-2.58948 -0.465309 0.200005 -0 0.15294 0.041405</pose>
         <scale>1 1 1</scale>
         <link name='link_0'>
-          <pose>-2.58153 -0.464539 0.200001 -3.14159 -0.594519 -3.08143</pose>
-          <velocity>-5.5e-05 0.000521 -0.002901 -0.001494 -0.019053 0.000645</velocity>
-          <acceleration>-0.059986 0.999753 -5.54793 1.25084 -0.303583 8.8e-05</acceleration>
-          <wrench>-0.059986 0.999753 -5.54793 0 -0 0</wrench>
+          <pose>-2.58948 -0.465309 0.200005 -0 0.15294 0.041405</pose>
+          <velocity>-7.8e-05 0.000734 0.004074 -0.003782 0.001863 -0.001362</velocity>
+          <acceleration>-0.060892 1.47289 8.14803 -1.11462 -0.305987 -0.00011</acceleration>
+          <wrench>-0.060892 1.47289 8.14803 0 -0 0</wrench>
         </link>
         <link name='link_1'>
-          <pose>-2.51839 -1.51266 0.200004 1.57088 0.30871 0.060133</pose>
-          <velocity>0.00062 0.000565 -0.000132 -0.002833 0.003263 0.000647</velocity>
-          <acceleration>-0.060498 1.00511 -0.252163 1.25727 -0.302505 8.6e-05</acceleration>
-          <wrench>-0.060498 1.00511 -0.252163 0 -0 0</wrench>
+          <pose>-2.54602 -1.51443 0.200005 1.5707 0.225422 0.041398</pose>
+          <velocity>-0.001507 0.000678 0.007962 -0.003404 -0.007195 -0.001361</velocity>
+          <acceleration>-0.061315 1.4783 15.9244 -1.10797 -0.306382 -0.000104</acceleration>
+          <wrench>-0.061315 1.4783 15.9244 0 -0 0</wrench>
         </link>
         <link name='link_1_clone'>
-          <pose>-2.64466 0.583581 0.199998 1.57088 -0.322931 0.060082</pose>
-          <velocity>-0.000731 0.000483 -0.00567 -0.002426 -0.003495 0.000646</velocity>
-          <acceleration>-0.06059 1.00444 -10.8432 1.25835 -0.302393 0.000175</acceleration>
-          <wrench>-0.06059 1.00444 -10.8432 0 -0 0</wrench>
+          <pose>-2.63295 0.583811 0.200005 1.5707 -0.209164 0.04144</pose>
+          <velocity>0.00135 0.000796 0.000185 -0.003995 0.007089 -0.001362</velocity>
+          <acceleration>-0.061284 1.47822 0.370287 -1.1082 -0.306441 -2e-05</acceleration>
+          <wrench>-0.061284 1.47822 0.370287 0 -0 0</wrench>
         </link>
       </model>
       <model name='white_ball'>
@@ -205,7 +205,7 @@
     </state>
     <gui fullscreen='0'>
       <camera name='user_camera'>
-        <pose>8.16785 3.58677 7.58541 0 0.695643 -3.007</pose>
+        <pose>23.4923 12.7234 22.1185 0 0.695643 -3.007</pose>
         <view_controller>orbit</view_controller>
         <projection_type>perspective</projection_type>
       </camera>
